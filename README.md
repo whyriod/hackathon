@@ -1,11 +1,11 @@
 # Photographers Paradise
-## Web app one stop shop for wedding / engagement photographers.
+## Web app one stop shop for wedding/engagement photographers
 Photographers often must deal with multiple platforms: one for scheduling, contacting, and invoicing (often honeybook), and one for photo delivery and portfolio display. Our goal is to create a Webapp that combines both into one website to ease photographers pain point of having to deal with multiple platforms and subscriptions. In the future we would also aim to introduce new features. 
 
 ## Team Needs:
 So far 1 full-stack developer has committed to the team. We are looking for one designer who could assist with graphics, and a Figma prototype. We are also looking for another developer who could assist with front end development but primarily work on the backend, primarily working with the following:
 - Aws Lambda (language of your choice)
-- Aws Dynamo Db
+- Aws DynamoDb
 - Aws S3
 
 ## Architecture
