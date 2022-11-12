@@ -8,6 +8,12 @@ So far 1 full-stack developer has committed to the team. We are looking for one 
 - Aws Dynamo Db
 - Aws S3
 
+Designers can expect to be desiging multiple pages, including but not limited to:
+- Booking page for clients
+- A calendar page for photographers to view clients appointments
+- A portfolio page for photographers to host their pictures
+- A general dashboard for photographers to manage their account from.
+
 ## Architecture
 <img src="visuals/architecture.png"/>
 
